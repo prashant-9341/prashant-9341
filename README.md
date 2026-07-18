@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi 👋 I'm Prashant
 
-<!--
-**prashant-9341/prashant-9341** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Student
 
-Here are some ideas to get you started:
+💻 Passionate about Software Development and Web Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+- C
+- C++
+- Java
+- HTML
+- CSS
+- JavaScript
+
+
+## 📚 Currently Learning
+
+- Data Structures & Algorithms
+- AWS Cloud & Devops
+- Pyhton 
+
+## 📫 Connect with Me
+
+- LinkedIn: www.linkedin.com/in/prashant-249824339
+- Email: prashant934185@gmail.com
+
+---
+⭐ Always learning and building projects.
