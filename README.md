@@ -20,6 +20,28 @@ I'm passionate about Software Development, Web Development and Cloud Technologie
 - CSS
 - JavaScript
 
+## 📚 Currently Learning
+
+- Data Structures & Algorithms
+- AWS Cloud & Devops
+- Pyhton
+- Linux
+
+## 📫 Connect with Me
+
+- LinkedIn: www.linkedin.com/in/prashant-249824339
+- Email: prashant934185@gmail.com
+
+---
+
+⭐ Passionate about learning new technologies and building real-world projects.
+
+---
+
+## 📊 GitHub Stats
+
+![Prashant's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=prashant-9341&show_icons=true&theme=github_dark)
+---
 
 ## 🚀 Projects
 
@@ -54,26 +76,5 @@ I'm passionate about Software Development, Web Development and Cloud Technologie
 
 🔗 Technologies: AWS | Linux | Git | Cloud Computing
 
-## 📚 Currently Learning
-
-- Data Structures & Algorithms
-- AWS Cloud & Devops
-- Pyhton
-- Linux
-
-## 📫 Connect with Me
-
-- LinkedIn: www.linkedin.com/in/prashant-249824339
-- Email: prashant934185@gmail.com
-
----
-
-⭐ Passionate about learning new technologies and building real-world projects.
-
----
-
-## 📊 GitHub Stats
-
-![Prashant's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=prashant-9341&show_icons=true&theme=github_dark)
 ---
 ⭐ Thanks for visiting my profile!
