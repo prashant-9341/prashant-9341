@@ -67,8 +67,11 @@ I'm passionate about Software Development, Web Development and Cloud Technologie
 - Email: prashant934185@gmail.com
 
 ---
+
 ⭐ Passionate about learning new technologies and building real-world projects.
+
 ---
+
 ## 📊 GitHub Stats
 
 ![Prashant's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=prashant-9341&show_icons=true&theme=github_dark)
