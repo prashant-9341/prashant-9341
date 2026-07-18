@@ -71,6 +71,6 @@ I'm passionate about Software Development, Web Development and Cloud Technologie
 ---
 ## 📊 GitHub Stats
 
-![Prashant's GitHub stats](https://github-readme-stats.vercel.app/api?username=prashant-9341&show_icons=true)
+![Prashant's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=prashant-9341&show_icons=true&theme=github_dark)
 ---
 ⭐ Thanks for visiting my profile!
